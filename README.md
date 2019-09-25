@@ -1,0 +1,1 @@
+# mipt_3sem_contest_pyth
